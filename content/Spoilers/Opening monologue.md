@@ -1,0 +1,1 @@
+Is history doomed to repeat itself
