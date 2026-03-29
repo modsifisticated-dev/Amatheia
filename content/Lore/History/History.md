@@ -3,3 +3,4 @@
 [[The Last Spell]]
 [[Cosmology]]
 [[The Mistfall Remembrium]]
+[[Historic Notable Figures]]
