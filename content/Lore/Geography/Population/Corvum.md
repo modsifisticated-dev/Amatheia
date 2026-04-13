@@ -1,1 +1,0 @@
-[[Corvum]] are descendants from the three crow gods they come from a floating city somewhere in the clouds.

@@ -1,34 +1,16 @@
-Mainland races:
-[[Humans]]
-[[Elves]]
-[[Dragonborn]]
-[[Halfling]]
-[[Goliaths]]
-[[Orcs]]
-[[Tiefling]]
+Anthousai
+[[Beastfolk]]
+[[Devils]]
+[[Dragon Knights]]
+Dryad
 [[Dwarves]]
-[[Aasimar]]
-[[Gnomes]]
-[[Changelings]]
-[[Aarokocra]]
-[[Firbolg]]
-[[Corvum]]
-[[Mandrakes]]
-[[Gnarlborn]]
-
-Island races:
-[[Sea elf]]
-[[Tortle]]
-[[Thri-kreen]]
-[[Giff]]
-[[Locathah]]
-[[Grung]]
-[[Lotol]]
-
-Realm of Yara races:
-[[Boggart]]
-[[Kithkin]]
-[[Yara Changeling]]
-
-
-
+[[Elf (Wode)]]
+[[Elf (High)]]
+[[Hakaan]]
+[[Humans]]
+Oakling
+[[Orcs]]
+[[Polders]]
+[[Revenant]]
+Siabhra
+[[Kuran'zoi]]

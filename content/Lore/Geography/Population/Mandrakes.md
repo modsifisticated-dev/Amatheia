@@ -1,1 +1,0 @@
-[[Mandrakes]]: It is said when Yosel feels an imbalance in his domain he will awaken a tree and give it a soul. these are the mandrakes they balance peace amongst realms of beasts and plants and humanoids

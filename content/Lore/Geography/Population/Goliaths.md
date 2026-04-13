@@ -1,1 +1,0 @@
-Goliaths a variant of humans who never retreated to the shelter of the hearth as such they continued to grow in size and strength a nomadic people that roam in tribes often being lead by whoever most recently lead them in a grand battle. Goliaths will almost never fight amongst their own tribe.
