@@ -1,3 +1,4 @@
+![[hakaan_image.png]]
 In spite of their friendly, outgoing nature, the rare presence of a hakaan in human society is considered a harbinger, an omen of dark times.
 
 Descended from a tribe of giants in Lower Vrayish, the original Haka’an made a bargain with Eostre. They traded part of their immense size and strength for the ability to see the future.

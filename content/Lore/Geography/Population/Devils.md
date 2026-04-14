@@ -1,5 +1,5 @@
 ![[devil_image.png]]
-<br>
+
 Devils that exist outside of the nine hells are always born as twins alongside a member of another race. The general consensus is that during a soul’s journey through the Nine Hells, if a person and their  devil companion become romantically attached, they are reincarnated alongside their devil twin. Some people treat their Devil sibling as a lifelong companion and refuse to be separated. Others families attempt to conceal or abandon the Devil, seeing it as a sign that their child was unjust in a past life. In some cultures, a Devil siblings are believed to be sent with the purpose to corrupt a soul a second time. Attitudes vary widely depending on cultural beliefs.
 
 Second generation Devils are rare, as there are relatively few first generation Devils, but they do exist. They are usually the offspring of Devils who were shunned by their parents.

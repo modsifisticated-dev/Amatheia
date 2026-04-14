@@ -7,12 +7,18 @@ The Races of Amethia :
 [[Elf (High)]]
 [[Hakaan]]
 [[Humans]]
-[[Polders]]
 [[Memonek]]
+[[Polders]]
 [[Beastfolk]]
 [[Kuran'zoi]]
 [[Devils]]
 
-The World of Amatheia:
+The History of Amatheia:
 [[Cosmology]]
+[[Amatheia]]
+[[Mistfall]]
+[[The Last Spell]]
+[[Ascendants]]
+
+The Geography of Amatheia:
 [[Nations]]

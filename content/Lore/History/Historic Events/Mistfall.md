@@ -1,2 +1,4 @@
-- The cause is unknown but many tales involve a human trying to bend the magic of the natural world to their own will
-- 
+
+The cause of the [[Mistfall]] is unknown, but it was an apocalyptic event that caused much knowledge to be lost from the previously powerful and magical civilizations that stood before. It consumed the world piece by piece until [[the Last Spell]] was cast in a final attempt to push it back. Some elves live long enough that they remember a time before the mist, but they are in their last years. The mist lasted about two thousand years, during which time it consumed the planet slowly (one continent at a time) until nothing but [[Vrayish]] stood.
+
+The mist moved slowly and still covers areas of deep sea outside of [[Vrayish]] and [[Efora]]. People theorize it is a weaker mist or different kind of mist, and one day soon a new generation of [[Mistseekers]] will head into the mist to find out the fate of what was lost behind it.

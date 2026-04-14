@@ -1,3 +1,4 @@
+![[cosmology_image.png]]
 There are two types of gods:
 [[Gods of Man]]
 [[Primordial Gods]]

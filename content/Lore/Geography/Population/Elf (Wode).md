@@ -1,3 +1,4 @@
+![[wodeelf_image.png]]
 Children of the sylvan celestials and masters of the elf-haunted forests known as wodes, wode elves see all forests as their birthright. They know and take pride in their reputation among humans for snatching children who wander too far into the woods. Humans should fear the trees.
 
 The wode elves’ natural ability to mask their presence, called glamour, complements their guerrilla style of fighting. It allows them to strike swiftly from cover, then melt back into the underbrush. These same traits make the relatively few wode elves who dwell in cities naturally adept at urban warfare.

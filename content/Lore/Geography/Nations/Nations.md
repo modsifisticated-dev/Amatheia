@@ -1,3 +1,5 @@
+![[amatheia_map_image.png]]
+
 [[Shota'ar]]
 [[Sa'ama]] 
 [[Kragan]] 

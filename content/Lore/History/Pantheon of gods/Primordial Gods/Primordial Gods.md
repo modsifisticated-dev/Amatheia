@@ -1,3 +1,4 @@
+![[skaoi_image.png|453]]
 [[Eostre]]
 [[Skaoi]]
 [[Syl]]

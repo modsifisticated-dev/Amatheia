@@ -1,10 +1,10 @@
 AKA Time raiders (in heroes book)
 
-Kuran'zoi are said to be favored by Eostre. They have trickster-like natures and see the world as a cosmic joke being played on the living—they take almost nothing seriously and often will laugh the hardest right as they die, seeing the meaninglessness in the sadness of those around them. Kuran'zoi are often good-natured but will not hesitate to play a prank on anyone, no matter their standing.
+Kuran'zoi are extraplanar beings said to be favored by Eostre. They have trickster-like natures and see the world as a cosmic joke being played on the living—they take almost nothing seriously and often will laugh the hardest right as they die, seeing the meaninglessness in the sadness of those around them. Kuran'zoi are often good-natured but will not hesitate to play a prank on anyone, no matter their standing.
 
 In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision. Kuran'zoi have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
-Kuran'zoi are born from crystalline eggs that take five years to hatch. All the eggs hatch in the month of Gale (Eostre's month); the few kuran'zoi that hatch outside of Gale are left to fend for themselves. Kuran'zoi don't take ownership of their children and leave their eggs in odd hiding places. When they hatch, a kuran'zoi will already have a fully developed personality.
+Kuran'zoi are born from crystalline eggs that take five years to hatch. All the eggs hatch in the month of Gale (Eostre's month); Kuran'zoi don't take ownership of their children and leave their eggs in odd hiding places. When they hatch, a kuran'zoi will already have a fully developed personality.
 
 There are probably fewer than forty kuran'zoi on the whole of Amethia.
 

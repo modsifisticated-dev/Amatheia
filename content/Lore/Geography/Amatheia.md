@@ -1,5 +1,5 @@
-Amatheia has two moons which cause a incredible darkness to fall about two and half hours after sunset races with dark vision are essentially blind without setting up camp in time.
+![[amatheia_image.jpg]]Amatheia has two moons, which cause an incredible darkness to fall about an hour and a half hours after sunset. Races with some form of night vision are essentially blind without setting up camp in time.
 
-People call the moons the eyes of the all-father as the world almost ceases to exist under their gaze
+People call the moons the Eyes of the All-Father, as the world almost ceases to exist under their gaze.
 
-Two moons mean the seas are rough and generally takes place along coasts
+Two moons mean the seas are rough, despite this settlement generally takes place along coasts.

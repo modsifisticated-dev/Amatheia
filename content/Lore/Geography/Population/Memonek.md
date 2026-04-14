@@ -1,8 +1,9 @@
+![[memonek_image.png]]
 The native denizens of Axiom, the Plane of Uttermost Law, memonek dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
 
 The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Amatheia where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
 
-The Memonek were first called to this plane as a result of the final spell and as such most people mistrust their intentions and see them as a foreign entity. They live mostly in the Skanley as the high elves remember a time before all speaking races and don't treat them as different.
+The Memonek were first called to this plane to help with the final spell and as such most people mistrust their intentions and see them as a foreign entity. They live mostly in the Skanley as the high elves remember a time before all speaking races and don't treat them as different.
 
 --- 
 On Memonek:
@@ -29,13 +30,13 @@ Count Revile took a deep breath. "We call it velloparatha," he said. "In your to
 
 The memonek smiled ruefully. "It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger. A grasshopper the dwarf called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger. Just as powerful.
 
-"I thought I could resist it. When I arrived here and felt no different I thought perhaps worldsickness was a legend. But it is a slow process, this illness. These insidious emotions."
+"I thought I could resist it. As I aged and felt no different I thought perhaps worldsickness was a legend. But it is a slow process, this illness. These insidious emotions."
 
 "No emotions where you're from?"
 
 Count Revile shook his head. "Not like this. We are creatures of reason, we of Axiom. It is our art, our pride. Our religion sometimes methinks. We have emotions; joy, sadness, wonder, grief. But they are... a fashion. They do not happen to us; they are something we indulge in, out of propriety. Here... everything is order and chaos mixed. Even in me. In me." Revile placed his hand on his chest.
 
-"In the battle today. That anger was not directed at Ajax's war dogs. It was at myself."
+"In the battle today. That anger was not directed at Amergin's war dogs. It was at myself."
 
 "At yourself? Why? What did you...?"
 
@@ -73,17 +74,23 @@ Embers approached and handed John a small, heavy object. She looked at the two m
 
 "Here," John said, handing the engine over to Count Revile. "I guess you're free to go."
 
-Revile looked at the elaborate cage of brass and glass holding a swirling blue starfield. "I guess I am," he said. He looked at Sir John. "I didn't expect our friendship to be so short."
+Revile looked at the elaborate cage of brass and glass holding the swirling blue field, the iridoss map, ancient even by Axiom standards. It showed directions through the mist, the places that hopefully still stood, with the resources his people needed to return home.
 
-John smiled and maybe blushed a little. "Well," he said, looking at the rest of the crew, "being one of my friends these days is a hazardous profession."
+"I guess I am free to go," he said. But he did not take his eyes from the map. "The Mistseekers found another map. Deep in the Vrayish Catacombs. They need someone who can read the old paths."
 
-The count just got more serious. "I was lucky to meet one such as you on this world."
+John stiffened. "The Mist? You can't be serious. Nothing comes back from there."
 
-John shrugged. "Only world I've ever known."
+"Some things do." Revile finally met his gaze. "I am nearly a hundred years old, John. and my people have been here for six hundred before that. My people don't belong on this world, I thought I had withstood the world sickness." He laughed, hollow. "Instead it has been a slow drowning. Each decade the water rises."
 
-Count Revile hefted the planar map. "I have responsibilities to keep. I will return home and this place will be only a memory." The count was openly sad. "And you can forget about the alien you rescued."
+He held up the iridoss map. "There is a power in the Mist. The same power that fueled the engines of old. If I can find it, I can open the way home. Not for me, I am too ruined for Axiom now, but for the young ones. Those born here who still dream of mercury seas and glass-winged birds. They deserve to see their ancestors' world before the sickness takes them too."
 
-"Oh, I doubt that," John said. "But I'll tell you this. I'll never look at the stars the same way again."
+John was quiet for a long moment. "You're not coming back."
+
+"I am not certain I wish to." Revile's porcelain fingers traced the glass cage. "But I will send the map back. With the route marked. Others can follow."
+
+"And if there's nothing out there?"
+
+"Then I will finally know what fate the all-father set out for me" Revile smiled, and for the first time it reached his eyes. "Perhaps I will find he can favour my people once more."
 
 John offered his hand. Revile shook it and then held it.
 

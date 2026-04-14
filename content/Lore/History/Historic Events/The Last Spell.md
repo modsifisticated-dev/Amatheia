@@ -1,4 +1,3 @@
-Ideas:
-- A group of heroes gather at the last breathable area of the world
-- This final spell involved using up the large stocks of high level spell components and has left the modern era lacking certain materials that might have been considered common previously
-- This spell involved the use of a dragon corpse or some dragon components and as a side effect of the spell the dragonborns were born
+The Final Spell was the last great work of magic of [[the Eluvian Age]]. It involved consuming the majority of [[Amatheia]]'s greatest spell components. Travelers from another plane, the [[Memonek]], were called to [[Amatheia]] to provide the final component. Some theorize that the mist was caused by them, or that they had something to do with it, and as such people shun the [[Memonek]] as a new race brought by the mist. Interestingly, people do not have the same dislike of the beastmen races, as they appear to be a result of the mist, not a cause.
+
+The [[Memonek]]'s final contribution depleted the interplanar engines that powered their strange technology, leaving them stranded on the new world. Some theorize that the Last Spell involved waking [[the All-Father]] for just long enough to change the dream we exist in.
