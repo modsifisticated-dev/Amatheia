@@ -1,4 +1,4 @@
-Darkness, Death, Grave, Hatred, Moon, Pain, Shadow, The Underneath
+Domain: Death
 
 **The Faceless One**  
 An absence of being, a shadow without form.  

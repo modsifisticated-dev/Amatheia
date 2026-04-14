@@ -1,6 +1,6 @@
 There are two types of gods:
 [[Gods of Man]]
-[[Elemental Gods]]
+[[Primordial Gods]]
 
 The entire world exists within the dream of [[The All-Father]].  
 Long ago, he was tricked into an endless sleep by the trickster god [[Eostre]]. At that time, the world was nothing but air and possibility, without form or substance.

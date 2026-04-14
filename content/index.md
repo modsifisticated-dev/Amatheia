@@ -2,16 +2,19 @@
 [[History]]
 
 Recommended reading order:
-[[The Races of Amethia]]:
+The Races of Amethia:
 [[Dragon Knights]]
 [[Dwarves]]
-[[Elf (High)]]
 [[Elf (Wode)]]
+[[Elf (High)]]
 [[Hakaan]]
 [[Humans]]
-[[Polders]]
+[[Polders]] 
+[[Memonek]]
 [[Beastfolk]]
 [[Kuran'zoi]]
 [[Devils]]
 
+The World of Amatheia:
 [[Cosmology]]
+[[Nations]]

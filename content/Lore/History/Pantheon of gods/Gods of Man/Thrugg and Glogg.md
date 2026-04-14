@@ -1,9 +1,9 @@
 Glogg:
-Zeal, Ambition, Growth, Glory, Pride, Strength, Temperance
-This head represents the greatest achievements a human can attain.
+Domain: Creation
+This head represents the greatest achievements a being can attain.
 
 Thrugg:
-Avarice, Corruption, Gluttony, Greed, Sloth, Tyranny, Wrath
-This head represents the worst parts of humanity.
+Domain: War
+This head is all the worst things a being can be.
 
 "You're being Thrugg headed"

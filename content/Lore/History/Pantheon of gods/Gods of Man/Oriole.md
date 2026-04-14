@@ -1,2 +1,2 @@
-Justice, Law, Nobility, Order, Civilization, Balance, Arts
+Domain: Knowledge (Order)
 The most noble of the three raven brothers.
