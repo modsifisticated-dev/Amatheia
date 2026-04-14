@@ -1,3 +1,4 @@
+![[Pasted image 20260414171646.png]] <br>
 AKA Time raiders (in heroes book)
 
 Kuran'zoi are extraplanar beings said to be favored by Eostre. They have trickster-like natures and see the world as a cosmic joke being played on the living—they take almost nothing seriously and often will laugh the hardest right as they die, seeing the meaninglessness in the sadness of those around them. Kuran'zoi are often good-natured but will not hesitate to play a prank on anyone, no matter their standing.

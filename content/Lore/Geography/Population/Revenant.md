@@ -1,4 +1,4 @@
-![[revenant_image.png]]
+![[revenant_image.png]] <br>
 
 The dead walk among us. Some of them are happier about it than others.
 

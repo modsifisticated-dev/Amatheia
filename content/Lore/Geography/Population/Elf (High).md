@@ -1,4 +1,4 @@
-![[highelf_image.png]]
+![[highelf_image.png]] <br>
 Children of the solar celestials, created to tend their libraries and serve the true elves as heralds, high elves remember a better age. Their histories speak of a time before the coming of humans and war, when the celestials still walked the world and all that mattered was art and beauty.
 
 In the millennia since their creators retired to Arcadia, the high elves have built a civilization of their own, dwelling primarily among the ruins of fallen celestial sky cities. With no creators left to please, they continue as they once did, collecting lore and knowledge, venerating art, and turning ever inward, growing more distrustful of outsiders with each passing generation.

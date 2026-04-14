@@ -1,4 +1,4 @@
-![[orc_image.png]]
+![[orc_image.png]] <br>
 An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors—a reputation that the peace-loving orcs find distasteful.
 
 The fifth of the speaking peoples, orcs arrived on Orden after humans and elves. They made their homes in the borderlands between those two cultures, preferring the arid deserts and avoiding the elf-haunted wodes. For generations, this put them out of the path of humans who cut down the trees and built roads and farms. Born to survive the harsh and arid areas of Amethia, orcs would dominate this evolutionary niche—if not for humans filling every open crack.
