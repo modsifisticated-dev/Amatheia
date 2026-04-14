@@ -1,7 +1,7 @@
 Recommended reading order:
 
 The Races of Amethia :
-[[Dragon Knights]]
+1. [[Dragon Knights]]
 [[Dwarves]]
 [[Elf (Wode)]]
 [[Elf (High)]]
